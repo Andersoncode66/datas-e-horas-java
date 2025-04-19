@@ -14,8 +14,8 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `06` | `Adicione ano e meses` | `Adicione 1 ano e 2 meses á data atual.` |
 | `07` | `Duas Datas` | `Compare duas datas informadas pelo usuário e diga se são iguais, ou qual vem antes.` |
 | `08` | `Um horário` | `Peça um horário ao usuário e adicione 1 hora e 30 minutos.` |
-| `09` | `` | `` |
-| `10` | `` | `` |
+| `09` | `Dias para Natal` | `Mostre quantos dias faltam para o próximo Natal.` |
+| `10` | `Anos de Diferença` | `Mostre quantos anos de diferença existem entre duas datas.` |
 
 
 
