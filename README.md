@@ -13,10 +13,21 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `05` | `Menos 10 dias a data atual` | `Subtraia 3 dias da data atual e exiba a nova data.` |
 | `06` | `Adicione ano e meses` | `Adicione 1 ano e 2 meses á data atual.` |
 | `07` | `Duas Datas` | `Compare duas datas informadas pelo usuário e diga se são iguais, ou qual vem antes.` |
-| `05` | `` | `` |
-| `05` | `` | `` |
-| `05` | `` | `` |
-| `05` | `` | `` |
+| `08` | `Um horário` | `Peça um horário ao usuário e adicione 1 hora e 30 minutos.` |
+| `09` | `` | `` |
+| `10` | `` | `` |
 
+
+
+## 💻Exercícios Intermediário
+| Dia | Desafio | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `` | `` |
+| `02` | `` | `` |
+| `03` | `` | `` |
+| `04` | `` | `` |
+| `05` | `` | `` |
+| `06` | `` | `` |
+| `07` | `` | `` |
 
 
