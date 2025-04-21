@@ -22,7 +22,7 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 ## 💻Exercícios Intermediário
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` | `` | `` |
+| `11` | `Ano de nascimento Bissexto` | `Peça o ano de nascimento e mostre se o ano é bissexto usando IsLeapYear().` |
 | `02` | `` | `` |
 | `03` | `` | `` |
 | `04` | `` | `` |
