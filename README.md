@@ -23,8 +23,8 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
 | `11` | `Ano de nascimento Bissexto` | `Peça o ano de nascimento e mostre se o ano é bissexto usando IsLeapYear().` |
-| `02` | `` | `` |
-| `03` | `` | `` |
+| `12` | `Nome do Feriado` | `Dado o nome de um feriado e sua data, exiba quantos dias faltam para ele.` |
+| `13` | `Horário` | `Peça um horário e diga se ele é antes  ou depois de 12:00. ` |
 | `04` | `` | `` |
 | `05` | `` | `` |
 | `06` | `` | `` |
