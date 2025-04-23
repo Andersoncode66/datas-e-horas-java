@@ -28,6 +28,6 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `14` | `Dia da Semana` | `Crie um programa que mostre o dia da semana da sua data de nascimento.` |
 | `15` | `Primeiro e último dia do mês ` | `Exiba o primeiro e o último dia do mês atual.` |
 | `16` | `O ano e o mês` | `Peça ao usuário o mês e o ano e exiba o número de dias naquele mês.` |
-| `17` | `` | `` |
+| `17` | `Combinando horário com Data` | `Crie uma data qualquer e converta para LocalDateTime com horário 00:00` |
 
 
