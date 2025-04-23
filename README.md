@@ -29,5 +29,22 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `15` | `Primeiro e último dia do mês ` | `Exiba o primeiro e o último dia do mês atual.` |
 | `16` | `O ano e o mês` | `Peça ao usuário o mês e o ano e exiba o número de dias naquele mês.` |
 | `17` | `Combinando horário com Data` | `Crie uma data qualquer e converta para LocalDateTime com horário 00:00` |
+| `18` | `5 horas e 45 minutos` | `Some 5 horas e 45 minutos ao horário atual.` |
+| `19` | `` | `` |
+| `20` | `` | `` |
 
+
+
+## 💻Exercícios Intermediário
+| Dia | Desafio | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `` | `` |
+| `03` | `` | `` |
+| `04` | `` | `` |
+| `05` | `` | `` |
+| `06` | `` | `` |
+| `07` | `` | `` |
+| `08` | `` | `` |
+| `09` | `` | `` |
+| `10` | `` | `` |
 
