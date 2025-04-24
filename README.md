@@ -30,7 +30,7 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `16` | `O ano e o mês` | `Peça ao usuário o mês e o ano e exiba o número de dias naquele mês.` |
 | `17` | `Combinando horário com Data` | `Crie uma data qualquer e converta para LocalDateTime com horário 00:00` |
 | `18` | `5 horas e 45 minutos` | `Some 5 horas e 45 minutos ao horário atual.` |
-| `19` | `` | `` |
+| `19` | `Minutos entre dois horários` | `Calcule quantos minutos existem entre dois horários.` |
 | `20` | `` | `` |
 
 
