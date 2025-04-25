@@ -39,7 +39,7 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
 | `21` | `Data e um número de dias ` | `Crie um programa que peça uma data e um número de dias e diga qual será a data após esses dias.` |
-| `22` | `` | `` |
+| `22` | `Data está antes ou depois da outra` | `Mostre se a data atual está antes ou depois de uma data específica (ex: 01/01/2025)` |
 | `23` | `` | `` |
 | `24` | `` | `` |
 | `25` | `` | `` |
