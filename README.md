@@ -39,12 +39,12 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
 | `21` | `Data e um número de dias ` | `Crie um programa que peça uma data e um número de dias e diga qual será a data após esses dias.` |
-| `03` | `` | `` |
-| `04` | `` | `` |
-| `05` | `` | `` |
-| `06` | `` | `` |
-| `07` | `` | `` |
-| `08` | `` | `` |
-| `09` | `` | `` |
-| `10` | `` | `` |
+| `22` | `` | `` |
+| `23` | `` | `` |
+| `24` | `` | `` |
+| `25` | `` | `` |
+| `26` | `` | `` |
+| `27` | `` | `` |
+| `28` | `` | `` |
+| `29` | `` | `` |
 
