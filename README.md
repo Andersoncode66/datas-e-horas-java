@@ -35,10 +35,10 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 
 
 
-## 💻Exercícios Intermediário
+## 💻Exercícios Avançado
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` | `` | `` |
+| `21` | `Data e um número de dias ` | `Crie um programa que peça uma data e um número de dias e diga qual será a data após esses dias.` |
 | `03` | `` | `` |
 | `04` | `` | `` |
 | `05` | `` | `` |
