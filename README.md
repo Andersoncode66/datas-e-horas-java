@@ -41,7 +41,7 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `21` | `Data e um número de dias ` | `Crie um programa que peça uma data e um número de dias e diga qual será a data após esses dias.` |
 | `22` | `Data está antes ou depois da outra` | `Mostre se a data atual está antes ou depois de uma data específica (ex: 01/01/2025)` |
 | `23` | `Horário de início e fim` | `Peça um horário de início e fim e mostre a duração total.` |
-| `24` | `` | `` |
+| `24` | `Diferença de anos, meses e dias` | `Mostre a diferença em anos, meses e dias entre duas datas com Period` |
 | `25` | `` | `` |
 | `26` | `` | `` |
 | `27` | `` | `` |
