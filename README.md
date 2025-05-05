@@ -42,7 +42,7 @@ Repositório com exercícios práticos em Java focados na manipulação de datas
 | `22` | `Data está antes ou depois da outra` | `Mostre se a data atual está antes ou depois de uma data específica (ex: 01/01/2025)` |
 | `23` | `Horário de início e fim` | `Peça um horário de início e fim e mostre a duração total.` |
 | `24` | `Diferença de anos, meses e dias` | `Mostre a diferença em anos, meses e dias entre duas datas com Period` |
-| `25` | `` | `` |
+| `25` | `Calendário mensal` | `Crie um calendário mensal (somente a lista dos dias no mês atual).` |
 | `26` | `` | `` |
 | `27` | `` | `` |
 | `28` | `` | `` |
